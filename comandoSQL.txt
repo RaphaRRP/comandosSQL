@@ -1,6 +1,0 @@
-DISTINCT = pegue resultados diferentes
-count() = quantos tem?
-where = onde procurar?
-top = pega essa quantidade!
-ORDER BY = ordernar em ordem crescente(asc) ou decrescente(desc)
-BETWEEN e not BETWEEN = X esta entra MIN e MÁX(USAR DATA)
